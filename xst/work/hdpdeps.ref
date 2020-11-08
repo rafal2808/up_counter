@@ -1,0 +1,8 @@
+V3 3
+FL D:/Elektronika/FPGA/projekty/xilinx/counter/up_counter.vhd 2020/11/08.14:36:50 P.20131013
+EN work/up_counter 1604842614 \
+      FL D:/Elektronika/FPGA/projekty/xilinx/counter/up_counter.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/UP_COUNTER/Behavioral 1604842615 \
+      FL D:/Elektronika/FPGA/projekty/xilinx/counter/up_counter.vhd \
+      EN work/up_counter 1604842614
